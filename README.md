@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/Download-Releases-blue?logo=github" />
 </p>
 
-
-
 <p>
   <img src="assets/ic_launcher.png" alt="MTK Player Icon" width="192" />
 </p>
