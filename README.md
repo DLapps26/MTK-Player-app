@@ -7,7 +7,7 @@
 
 
 <p>
-  <img src="ic_launcher.png" alt="MTK Player Icon" width="192" />
+  <img src="assets/ic_launcher.png" alt="MTK Player Icon" width="192" />
 </p>
 
 # MTK PLAYER
