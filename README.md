@@ -56,3 +56,13 @@ Some applications only pass the raw video stream URL without any metadata or ima
 Since Dynamic Theme relies on artwork to generate its color palette, it cannot function without these assets.
 
 Additional compatibility may be added in the future.
+
+
+
+## :package: How to get MTK Player
+
+Participe to the **closed test** on **Google Play Store** in 2 steps:
+1. Join the **Google Group** here: <br /> 👉 https://groups.google.com/g/mtk-player
+2. Once you are a member of the group, click on the following link to **accept the testing program**: <br />👉 https://play.google.com/apps/testing/com.dlapps.mtkplayer
+
+
