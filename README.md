@@ -66,3 +66,11 @@ Participe to the **closed test** on **Google Play Store** in 2 steps:
 2. Once you are a member of the group, click on the following link to **accept the testing program**: <br />👉 https://play.google.com/apps/testing/com.dlapps.mtkplayer
 
 
+
+## :coin: Support MTK Player
+
+If you enjoy the app, please consider [buying me a coffee](https://ko-fi.com/dlapps26).
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/dlapps26)
+
+
